@@ -199,6 +199,7 @@
   <project path="device/generic/firmware" name="device/generic/firmware" remote="x86" revision="pie-x86" />
   <project path="device/generic/x86_64" name="device-generic-x86_64" remote="tv-x86" revision="pie-x86-tv" />
   <project path="device/generic/x86" name="device-generic-x86" remote="tv-x86" revision="pie-x86-tv" />
+  <project path="vendor/bliss/priv" name="vendor-bliss-priv" remote="tv-x86" revision="p9.0" />
   <project path="external/alsa-lib" name="platform/external/alsa-lib" remote="x86" revision="pie-x86" />
   <project path="external/alsa-utils" name="platform/external/alsa-utils" remote="x86" revision="pie-x86" />
   <project path="external/bluetooth/bluez" name="platform/external/bluetooth/bluez" remote="x86" revision="pie-x86" />
@@ -241,7 +242,7 @@
   <project path="hardware/ril" name="platform/hardware/ril" remote="x86" revision="pie-x86" />
   <project path="hardware/x86power" name="platform/hardware/x86power" remote="x86" revision="pie-x86" />
   <project path="packages/apps/Camera2" name="platform/packages/apps/Camera2" remote="x86" revision="pie-x86" />
-  <project path="packages/apps/Eleven" name="platform/packages/apps/Eleven" remote="x86" revision="pie-x86" />
+<!--  <project path="packages/apps/Eleven" name="platform/packages/apps/Eleven" remote="x86" revision="pie-x86" />-->
   <project path="packages/apps/Gallery2" name="platform/packages/apps/Gallery2" remote="x86" revision="pie-x86" />
 <!--  <project path="packages/apps/Settings" name="platform/packages/apps/Settings" remote="x86" revision="pie-x86" />-->
 <!--  <project path="packages/apps/Taskbar" name="platform/packages/apps/Taskbar" remote="x86" revision="pie-x86" />-->
