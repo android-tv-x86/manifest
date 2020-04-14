@@ -199,7 +199,7 @@
   <project path="device/generic/firmware" name="device/generic/firmware" remote="x86" revision="pie-x86" />
   <project path="device/generic/x86_64" name="device-generic-x86_64" remote="tv-x86" revision="pie-x86-tv" />
   <project path="device/generic/x86" name="device-generic-x86" remote="tv-x86" revision="pie-x86-tv" />
-  <project path="vendor/bliss/priv" name="vendor_bliss_priv" remote="tv-x86" revision="p9.0" />
+  <project path="vendor/bliss_priv" name="vendor_bliss_priv" remote="tv-x86" revision="p9.0" />
   <project path="external/alsa-lib" name="platform/external/alsa-lib" remote="x86" revision="pie-x86" />
   <project path="external/alsa-utils" name="platform/external/alsa-utils" remote="x86" revision="pie-x86" />
   <project path="external/bluetooth/bluez" name="platform/external/bluetooth/bluez" remote="x86" revision="pie-x86" />
