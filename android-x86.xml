@@ -138,7 +138,7 @@
   <remove-project name="platform/packages/apps/Settings" />
   <remove-project name="platform/packages/apps/Tag" />
   <remove-project name="platform/packages/apps/Test/connectivity" />
-  <!-- remove-project name="platform/packages/apps/TvSettings" / -->
+  <remove-project name="platform/packages/apps/TvSettings" />
   <!-- remove-project name="platform/packages/apps/TV" / -->
   <remove-project name="platform/packages/experimental" />
   <remove-project name="platform/packages/inputmethods/OpenWnn" />
@@ -196,6 +196,7 @@
   <project path="bionic" name="platform/bionic" remote="x86" revision="pie-x86" />
   <project path="bootable/newinstaller" name="platform/bootable/newinstaller" remote="x86" revision="pie-x86" />
   <project path="device/generic/common" name="device-generic-common" remote="tv-x86" revision="pie-x86-tv" />
+  <project path="platform/packages/apps/TvSettings" name="platform-packages-apps-TvSettings" remote="tv-x86" revision="pie-x86" />
   <project path="device/generic/firmware" name="device/generic/firmware" remote="x86" revision="pie-x86" />
   <project path="device/generic/x86_64" name="device-generic-x86_64" remote="tv-x86" revision="pie-x86-tv" />
   <project path="device/generic/x86" name="device-generic-x86" remote="tv-x86" revision="pie-x86-tv" />
